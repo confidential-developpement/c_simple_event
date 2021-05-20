@@ -1,4 +1,4 @@
-# test
+# c_simple_event
 INSTALLATION :
 
 [1] = Glissez 'swt_notifications' et 'c_simple_event' dans vos resources
