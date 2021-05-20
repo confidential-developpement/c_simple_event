@@ -35,3 +35,5 @@ Pour modifier le texte de la vente, modifiez la ligne 55 dans c_simple_event/cli
 Pour modifier le ped de la vente, modifiez la ligne 81 et 86 dans c_simple_event/client.lua (il suffit de changer "csb_abigail" Liste : https://docs.fivem.net/docs/game-references/ped-models/)
 
 Discord CONFIDENTIAL : https://discord.gg/kwy3pPFwJz
+
+Bug connu : si le joueur se connecte pendant que l'event est en cours, il n'y aura pas accès et devra attendre l'event suivant.
