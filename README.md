@@ -26,8 +26,8 @@ CONFIGURATION :
 /server : 
 
 Pour retirer le lancement automatique de l'event, modifiez la ligne 14 dans c_simple_event/server.lua (=true lancement automatique activé, =false lancement automatique désactivé)
-Pour changer le temps entre chaque events, modifiez la ligne 15 dans c_simple_event/server.lua (120*60000 = 120 fois* 1 minute = 2 heures)
-Pour changer la durée de l'event, modifiez la ligne 16 dans c_simple_event/server.lua (30*6000 = 30 fois* 1 minute = 30 minutes)
+Pour changer le temps entre chaque events, modifiez la ligne 15 dans c_simple_event/server.lua (120x60000 = 120 fois 1 minute = 2 heures)
+Pour changer la durée de l'event, modifiez la ligne 16 dans c_simple_event/server.lua (30x6000 = 30 fois 1 minute = 30 minutes)
 
 /client :
 
